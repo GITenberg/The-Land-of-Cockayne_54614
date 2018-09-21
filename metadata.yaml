@@ -1,0 +1,26 @@
+_repo: The-Land-of-Cockayne_54614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Scarfoglia, Matilde Serao
+    - Serao-Scarfoglia, Matilde
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_issued: '2017-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Land of Cockayne
+url: http://www.gutenberg.org/ebooks/54614
